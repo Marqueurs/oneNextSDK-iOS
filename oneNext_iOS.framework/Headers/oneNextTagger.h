@@ -32,18 +32,6 @@
 
 @property (nonatomic) oneNextLoggingMode loggingMode;  //Default is oneNextLoggingMode_Error
 
-@property (nonatomic, strong, getter=theNewLevel1) NSString *newLevel1;
-@property (nonatomic, strong, getter=theNewLevel2) NSString *newLevel2;
-@property (nonatomic, strong, getter=theNewLevel3) NSString *newLevel3;
-@property (nonatomic, strong, getter=theNewLevel4) NSString *newLevel4;
-@property (nonatomic, strong, getter=theNewLevel5) NSString *newLevel5;
-@property (nonatomic, strong, getter=theNewLevel6) NSString *newLevel6;
-@property (nonatomic, strong, getter=theNewLevel7) NSString *newLevel7;
-@property (nonatomic, strong, getter=theNewLevel8) NSString *newLevel8;
-@property (nonatomic, strong, getter=theNewLevel9) NSString *newLevel9;
-@property (nonatomic, strong, getter=theNewLevel10) NSString *newLevel10;
-@property (nonatomic, strong, getter=theNewLevel11 ) NSString *newLevel11;
-
 @property (nonatomic, strong) NSString *mediaContentId;
 @property (nonatomic, strong) NSString *mediaDiffMode;
 @property (nonatomic, strong) NSString *mediaChannel;

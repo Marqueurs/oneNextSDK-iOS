@@ -17,7 +17,7 @@ CocoaPods is a dependency manager which automates and simplifies the process of 
 
 ```ruby
 target 'MyProject' do
-pod "oneNext-iOS", "~1.0.0"
+pod 'oneNext-iOS', '~>1.0.1'
 end
 ```
 

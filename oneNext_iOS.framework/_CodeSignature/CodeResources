@@ -14,11 +14,15 @@
 		</data>
 		<key>Headers/oneNextTagger.h</key>
 		<data>
-		ob5357p8qyBcX2YAbvngs+FQ9DQ=
+		iGb5nWBpY36HTnKsjt7qbXHQ0+4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4jmrQq/U4+Ykolew3jrs/jRKUKI=
+		862UqpS5QXj28z0IgHk6LnQXqXk=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		ADd5WVsOYL56dbLxJjxH3mf7YfI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -49,11 +53,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ob5357p8qyBcX2YAbvngs+FQ9DQ=
+			iGb5nWBpY36HTnKsjt7qbXHQ0+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			i+bV/6ZF0ovoxLqVt6WjmVxbbKhZq1mqFHzLsXv8w4I=
+			azrCJj3GBXz5lnSeMi8Z5WpENAbh/rfkGMeVHcWYhmU=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ADd5WVsOYL56dbLxJjxH3mf7YfI=
+			</data>
+			<key>hash2</key>
+			<data>
+			po/RGCWxOwHym+sKoB3s+RkJx3avwRbGejROT7tIhG4=
 			</data>
 		</dict>
 	</dict>
